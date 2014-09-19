@@ -1,0 +1,32 @@
+/* CSS Document */
+
+body {background-color: #F0F0F0;
+}
+
+h1 {text-align: center;
+}
+
+h2 {text-align: center;
+}
+
+#intro p {text-align: justify;
+          margin-left: 80px;
+          margin-right: 80px;
+}
+
+#projects a {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.stevepic {
+    height: 270px;
+    width: 380px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px black;
+    
+}
